@@ -1,13 +1,14 @@
 # My Portfolio
 
-Hi, I'm [Your Name], a passionate mobile app developer specializing in Flutter, Swift, and clean architecture. Below are some of my key projects:
+Hi, I'm Mahmoud Gaber, a passionate mobile app developer specializing in Flutter, Swift, and clean architecture. Below are some of my key projects:
 
 ## Projects
 
-### [Food Delivery App](ProjectName1)
-A mobile application for ordering and delivering food from restaurants.  
-![Yocar](Yocar/screenshots2/screenshot3.png)
 
-### [Islamic App](ProjectName2)
-An Islamic app with Quran reading, prayer times, and Qibla direction functionality.  
-![Aqary](Aqary/home/prop.png)
+### [Aqary (Real Estate App)](ProjectName1)
+A real estate app with features for browsing, listing, and managing properties. It allows users to view property details, contact owners, and track listings.  
+![Aqary](Aqary/screenshots/home.png)
+
+### [Yocar](ProjectName2)
+A mobile application for booking rides, managing user profiles, and real-time tracking for both riders and drivers.  
+![Yocar](Yocar/screenshots/screenshot2.png)
