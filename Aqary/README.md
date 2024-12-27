@@ -1,16 +1,44 @@
-# Project Name: Food Delivery App
+# Project Name: Aqary
 
 ## Description
-A mobile application for ordering and delivering food from local restaurants. Users can browse menus, place orders, and track delivery in real-time.
+A real estate mobile application for browsing, listing, and managing properties. Users can explore available properties, view detailed information, and contact property owners seamlessly. Built with Flutter and Riverpod for efficient state management and scalable architecture.
 
 ## Features
-- User authentication
-- Real-time tracking using MapKit
-- Secure payments with Apple Pay integration
+- Property browsing and detailed information
+- User authentication (login and registration)
+- Property listing and management for owners
+- Contact feature to reach property owners
+- Real-time property availability updates
 
 ## Technologies Used
-- Swift, UIKit, REST API, MapKit
+- Flutter, Dart, Riverpod, REST API, Firebase, Provider, Local Storage
 
 ## Screenshots
-![Login Screen](screenshots/screenshot1.png)
-![Order Summary](screenshots/screenshot2.png)
+
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+    <img src="screenshots/login.png" alt="Property Home Screen" width="250">
+    <img src="screenshots/home.png" alt="Property Details Screen" width="250">
+    <img src="screenshots/addProp.png" alt="Property Filter Screen" width="250">
+</div>
+
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+    <img src="screenshots/prop.png" alt="Property Listing Screen" width="250">
+    <img src="screenshots/rentProp.png" alt="Owner Home Screen" width="250">
+    <img src="screenshots/contract.png" alt="Chat Screen" width="250">
+</div>
+
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+    <img src="screenshots/chatList.png" alt="Property Listing Screen" width="250">
+    <img src="screenshots/chat.png" alt="Owner Contact Screen" width="250">
+    <img src="screenshots/managment.png" alt="Login Screen" width="250">
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+       <img src="screenshots/settings.png" alt="Signup Screen" width="250">
+</div>
+
+
+
