@@ -1,7 +1,7 @@
 # Project Name: Yocar
 
 ## Description
-A mobile application for booking rides, managing user profiles, and real-time tracking for both riders and drivers. The app provides an intuitive interface for users to book rides, track drivers, and make payments seamlessly.
+A mobile application for booking rides, managing user profiles, and real-time tracking for both riders and drivers. The app offers an intuitive interface for users to book rides, track drivers, and make payments seamlessly, built with Flutter using BLoC state management and Clean Architecture for scalability and maintainability.
 
 ## Features
 - User authentication (login and registration)
@@ -11,7 +11,7 @@ A mobile application for booking rides, managing user profiles, and real-time tr
 - Driver and rider-specific views
 
 ## Technologies Used
-- Swift, UIKit, REST API, MapKit, UserDefaults
+- Flutter, Dart, BLoC state management, Clean Architecture, REST API, MapKit, UserDefaults
 
 ## Screenshots
 
@@ -37,15 +37,3 @@ A mobile application for booking rides, managing user profiles, and real-time tr
     <img src="screenshots/screenshot7.png" alt="Ride Confirmation Screen" width="250">
 </div>
 
-## How to Run
-1. Clone the repository to your local machine.
-2. Open the project in Xcode.
-3. Run the app on a physical device or simulator.
-
-## Installation
-1. Ensure you have the latest version of Xcode installed.
-2. Install necessary dependencies using CocoaPods or Swift Package Manager.
-3. Build and run the app.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
