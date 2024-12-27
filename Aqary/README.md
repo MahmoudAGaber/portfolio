@@ -11,7 +11,7 @@ A real estate mobile application for browsing, listing, and managing properties.
 - Real-time property availability updates
 
 ## Technologies Used
-- Flutter, Dart, Riverpod, REST API, Firebase, Provider, Local Storage
+- Flutter, Dart, Riverpod, REST API, Firebase, Local Storage, Google Map
 
 ## Screenshots
 

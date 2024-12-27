@@ -6,8 +6,8 @@ Hi, I'm [Your Name], a passionate mobile app developer specializing in Flutter, 
 
 ### [Food Delivery App](ProjectName1)
 A mobile application for ordering and delivering food from restaurants.  
-![Food Delivery App](ProjectName1/screenshots/screenshot1.png)
+![Yocar](Yocar/screenshots2/screenshot3.png)
 
 ### [Islamic App](ProjectName2)
 An Islamic app with Quran reading, prayer times, and Qibla direction functionality.  
-![Islamic App](ProjectName2/screenshots/screenshot1.png)
+![Aqary](Aqary/home/prop.png)

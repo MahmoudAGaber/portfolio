@@ -5,13 +5,13 @@ A mobile application for booking rides, managing user profiles, and real-time tr
 
 ## Features
 - User authentication (login and registration)
-- Real-time ride tracking with MapKit integration
+- Real-time ride tracking with GoogleMap integration
 - Profile management for riders and drivers
 - Secure payment integration
 - Driver and rider-specific views
 
 ## Technologies Used
-- Flutter, Dart, BLoC state management, Clean Architecture, REST API, MapKit, UserDefaults
+- Flutter, Dart, BLoC state management, Clean Architecture, REST API, GoogleMap,
 
 ## Screenshots
 
