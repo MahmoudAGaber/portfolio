@@ -30,6 +30,6 @@ Hi, I'm Mahmoud Gaber, a passionate mobile app developer specializing in Flutter
     <h3><a href="https://github.com/MahmoudAGaber/portfolio/tree/main/YamalAlSham">Yamal Al Sham</a></h3>
     <p>A grocery mobile application for seamless product browsing, cart management, and real-time order tracking. 
     Built with Flutter and Provider for high performance and scalability.</p>
-    <img src="YamalAlSham/screenshots/home.jpg" alt="Yamal Al Sham" width="200" />
+    <img src="YamalAlsham/screenshots/home.jpg" alt="Yamal Al Sham" width="200" />
   </div>
 </div>
