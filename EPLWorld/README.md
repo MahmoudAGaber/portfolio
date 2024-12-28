@@ -17,20 +17,21 @@ Built with Flutter, Riverpod, and clean architecture to deliver a seamless and s
 
 ## Screenshots
 
+
 ### Home Screen and Match Details
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
     <img src="screenshots/home.jpg" alt="Home Screen" width="250">
     <img src="screenshots/fixture.jpg" alt="Match Details Screen" width="250">
 </div>  
 
 ### Team  and League 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
     <img src="screenshots/team.jpg" alt="Team Statistics Screen" width="250">
     <img src="screenshots/league.jpg" alt="League Standings Screen" width="250">
 </div>  
 
 ### News  and Leagues
-<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
     <img src="screenshots/news.jpg" alt="Notifications Screen" width="250">
     <img src="screenshots/leagues.jpg" alt="League Standings Screen" width="250">
 
