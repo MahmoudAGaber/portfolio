@@ -1,7 +1,9 @@
 # Project Name: Aqary
 
 ## Description
-A real estate mobile application for browsing, listing, and managing properties. Users can explore available properties, view detailed information, and contact property owners seamlessly. Built with Flutter and Riverpod for efficient state management and scalable architecture.
+A real estate mobile application for browsing, listing, and managing properties. 
+Users can explore available properties, view detailed information, and contact property owners seamlessly. 
+Built with Flutter and Riverpod for efficient state management and scalable architecture.
 
 ## Features
 - Property browsing and detailed information

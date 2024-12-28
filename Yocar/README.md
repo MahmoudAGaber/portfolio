@@ -1,7 +1,9 @@
 # Project Name: Yocar
 
 ## Description
-A mobile application for booking rides, managing user profiles, and real-time tracking for both riders and drivers. The app offers an intuitive interface for users to book rides, track drivers, and make payments seamlessly, built with Flutter using BLoC state management and Clean Architecture for scalability and maintainability.
+A mobile application for booking rides, managing user profiles, and real-time tracking for both riders and drivers. 
+The app offers an intuitive interface for users to book rides, track drivers, and make payments seamlessly, 
+built with Flutter using BLoC state management and Clean Architecture for scalability and maintainability.
 
 ## Features
 - User authentication (login and registration)
